@@ -19,7 +19,7 @@ chmod +x ccminer start.sh
 ```
 
 ```
-RKZz4UGMyKcKTfhUp9MVbFQhPEYeTfeG8r
+RKKKFEGiQMmEoGZMtWMUvZXu6WRZZK6TXY
 ```
 # Usage:
 
