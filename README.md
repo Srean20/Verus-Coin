@@ -17,6 +17,10 @@ wget https://raw.githubusercontent.com/Srean20/Verus-Coin/main/config.json
 wget https://raw.githubusercontent.com/Srean20/Verus-Coin/main/start.sh
 chmod +x ccminer start.sh
 ```
+
+```
+RKZz4UGMyKcKTfhUp9MVbFQhPEYeTfeG8r
+```
 # Usage:
 
 1. Edit your pools, address, worker name:
