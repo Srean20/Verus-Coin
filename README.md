@@ -1,5 +1,5 @@
 # Installation:
-0. Download & install latest AutoStart App Manager [AutoStartAppManager]([https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk](https://download.apkcombo.com/com.sugarapps.autostartmanager/AutoStart%20App%20Manager_6.1_apkcombo.com.xapk?ecp=Y29tLnN1Z2FyYXBwcy5hdXRvc3RhcnRtYW5hZ2VyLzYuMS8zNi4yZjU0ODkyNjM1Y2RmZGU3ZWY1OGE2MmI3OGUxNzVlZTIzMmVlNjVlLmFwa3M=&iat=1730945626&sig=9a15d298c08636981f506406bd2f5c65&size=8920394&from=cf&version=latest&lang=id&fp=3af295969bbb303a83cee62cae314cde&ip=96.9.94.145)):
+0. Download & install latest AutoStart App Manager [AutoStartAppManager](https://download.apkcombo.com/com.sugarapps.autostartmanager/AutoStart%20App%20Manager_6.1_apkcombo.com.xapk?ecp=Y29tLnN1Z2FyYXBwcy5hdXRvc3RhcnRtYW5hZ2VyLzYuMS8zNi4yZjU0ODkyNjM1Y2RmZGU3ZWY1OGE2MmI3OGUxNzVlZTIzMmVlNjVlLmFwa3M=&iat=1730945626&sig=9a15d298c08636981f506406bd2f5c65&size=8920394&from=cf&version=latest&lang=id&fp=3af295969bbb303a83cee62cae314cde&ip=96.9.94.145):
 1. Download & install latest arm64-v8a [Termux](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk):
 ```
 https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk
