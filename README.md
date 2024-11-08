@@ -1,5 +1,5 @@
 # Installation:
-0. Download & install [AutoStartAppManager](https://download.apkcombo.com/com.sugarapps.autostartmanager/AutoStart%20App%20Manager_5.1_apkcombo.com.apk?ecp=Y29tLnN1Z2FyYXBwcy5hdXRvc3RhcnRtYW5hZ2VyLzUuMS8zMy42MzY4ZTMyMzc2YWU5YzhhODNiNzhiZDEwNmRhZTg2ODllNWFiZTA1LmFwaw==&iat=1730945626&sig=79165e089ea6a27c857991d052b342cd&size=8254287&from=cf&version=latest&lang=id&fp=3af295969bbb303a83cee62cae314cde&ip=96.9.94.145)
+0. Download & install [AutoStartApp](https://download.apkcombo.com/com.sugarapps.autostartmanager/AutoStart%20App%20Manager_5.1_apkcombo.com.apk?ecp=Y29tLnN1Z2FyYXBwcy5hdXRvc3RhcnRtYW5hZ2VyLzUuMS8zMy42MzY4ZTMyMzc2YWU5YzhhODNiNzhiZDEwNmRhZTg2ODllNWFiZTA1LmFwaw==&iat=1730945626&sig=79165e089ea6a27c857991d052b342cd&size=8254287&from=cf&version=latest&lang=id&fp=3af295969bbb303a83cee62cae314cde&ip=96.9.94.145)
 1. Download & install [Termux](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk)
 2. Get Termux ready:
 - Type `y` then enter key in any prompts!
